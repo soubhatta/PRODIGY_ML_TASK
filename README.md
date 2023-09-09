@@ -1,2 +1,2 @@
-# PRODIGY_ML_TASK_2_3
+# PRODIGY_ML_TASK
 Projects on Machine Learning Internship
